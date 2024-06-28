@@ -14,7 +14,7 @@ end
 
 answer = the_answer_to_life_the_universe_and_everything
 
+p answer
 
-if
-  
-
+if answer==42
+  p "correct"
