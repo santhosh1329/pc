@@ -8,6 +8,6 @@ end
 
 result = fact(10)
 
-if result == 100 then
+if result == 3628800 then
   p "yes"
-fi
+end
