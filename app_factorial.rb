@@ -6,6 +6,8 @@ def fact(n)
   end
 end
 
-100.times {
-  fact(5000)
-}
+result = fact(10)
+
+if result == 100 then
+  p "yes"
+  
