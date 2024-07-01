@@ -11,5 +11,6 @@ result = fact(10)
 if result == 3628800 then
   p "yes"
 else
+  no = "no"
   p no
-fi
+end
