@@ -10,4 +10,4 @@ result = fact(10)
 
 if result == 100 then
   p "yes"
-  
+fi
