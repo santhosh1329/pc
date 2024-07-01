@@ -10,4 +10,6 @@ result = fact(10)
 
 if result == 3628800 then
   p "yes"
-end
+else
+  p no
+fi
