@@ -6,6 +6,13 @@ def fact(n)
   end
 end
 
-100.times {
-  fact(5000)
-}
+result = fact(10)
+
+if result == 3628800 then
+  p "yes"
+else
+  no = "no"
+  p no
+end
+
+p yes
